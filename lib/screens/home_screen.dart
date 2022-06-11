@@ -44,7 +44,7 @@ class HomeScreen extends StatelessWidget {
                 onPressed: () {
                   Navigator.pushNamed(context, 'formulario2');
                 },
-              )
+              ),
             ],
           ),
         ));
